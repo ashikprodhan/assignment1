@@ -1,0 +1,125 @@
+h1{
+    font-size: 55px;
+    margin: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.p-style{
+    width: 50%;
+    margin-bottom: 30px;
+    color:black;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 4%;
+    float: left;
+   
+}
+.half-width img{
+    width: 100%;
+}
+.highlight{
+    color:orangered;
+}
+.linkbutton{
+    background-color:rgb(212, 43, 13);
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    font-weight: 700;
+    color: white;
+}
+section{
+    margin-bottom: 100px;
+    height: 500px;
+}
+.singleproject{
+    width: 26%;
+    margin-left:3%;
+    padding-left: 3%;
+    float: left;
+    box-shadow: 20px 20px 40px grey;
+    background-color: white;
+    border-radius: 10px;
+    
+   
+}
+.latest-highlight{
+    color: orangered;
+    
+}
+.h1center{
+    text-align: center;
+    margin: 40px 0px;
+    padding-top: 40px;
+}
+
+.project{
+    background-color: whitesmoke;
+    height: 700px;
+}
+.enquiry{
+    background-image: url(shapes/resizeenquiry.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    background-position: center;
+   
+   
+   
+}
+
+.enquiry-width{
+    
+    float: left;
+    padding-top: 50px;
+    margin-left: 160px;
+    padding-left: 30px;
+    
+}
+.chat-button{
+    padding-right:60px;
+    padding-top: 50px;
+    margin-top: 40px;
+    float:right;
+    margin-right:160px ;
+    }
+    
+ .align{
+     text-align: center;
+ }   
+ .single-experience{
+    box-shadow: 5px 10px 40px gray ;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+
+}
+.experience-area{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+
+}
+.experience-area h1{
+    margin: 20px 10px;
+}
+#vivo{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+
+}
+#learner{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+.h3color{
+    color: coral;
+}
